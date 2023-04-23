@@ -1,4 +1,4 @@
-# Counter_App
+# Counter App
 
 The counter app is a simple and user-friendly web application that has been created using HTML, CSS, and JavaScript. The app is designed to allow users to easily count and save numbers, making it an ideal tool for a variety of purposes.
 
